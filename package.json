@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jrmykolyn/test.js.es6.initial-tests/issues"
   },
-  "homepage": "https://github.com/jrmykolyn/test.js.es6.initial-tests#readme"
+  "homepage": "https://github.com/jrmykolyn/test.js.es6.initial-tests#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
